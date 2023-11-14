@@ -3,8 +3,25 @@
 ### website
 https://shopwithzosh.vercel.app/
 
-### server spring boot
-https://github.com/ashok0001/e-commerce-server
+
+DEpendencises
+ ===========
+ Material Ui:-
+ ==========
+ npm install @mui/material @emotion/react @emotion/styled
+ Materioal Icon:-
+ ================
+ npm install @mui/icons-material @mui/material @emotion/styled @emotion/react
+
+ TailWind CSS
+ ================
+
+npm install -D tailwindcss
+npx tailwindcss init
+
+TailWind Ui Components
+=======================
+https://tailwindui.com/components/ecommerce/components/store-navigation
 
 
 
